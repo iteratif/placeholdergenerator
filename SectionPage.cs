@@ -92,7 +92,7 @@ namespace PlaceholderGenerator
                 txtText.DataBindings.Add("Text", m_bsSection, "Text");
 
                 nNumber.DataBindings.Clear();
-                nNumber.DataBindings.Add("Value", m_bsSection, "NumberOfPlaceholder");
+                nNumber.DataBindings.Add("Value", m_bsSection, "NumberOfPlaceholder", false, DataSourceUpdateMode.OnPropertyChanged);
 
                 tnPlaceholder.DataBindings.Clear();
                 tnPlaceholder.DataBindings.Add("BackgroundColor", m_bsSection, "BackgroundColor");
