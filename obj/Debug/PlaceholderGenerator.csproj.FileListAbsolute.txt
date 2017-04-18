@@ -1,0 +1,12 @@
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Debug\PlaceholderGenerator.exe.config
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Debug\PlaceholderGenerator.exe
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Debug\PlaceholderGenerator.pdb
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.GeneratorProgress.resources
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.itTabControl.resources
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.PlaceholderGeneratorForm.resources
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.Properties.Resources.resources
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.SectionPage.resources
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.csproj.GenerateResource.Cache
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.exe
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.pdb
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Debug\PlaceholderGenerator.csprojResolveAssemblyReference.cache
