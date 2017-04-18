@@ -19,8 +19,9 @@ ArchitecturesInstallIn64BitMode=x64
 OutputBaseFilename=install
 
 [Files]
-Source: "bin\Release\PlaceholderGenerator.exe"; DestDir: "{app}"; DestName: "PlaceholderGenerator.exe"; Flags: 64bit
-             
+Source: "bin\Release\x86\PlaceholderGenerator.exe"; DestDir: "{app}"; DestName: "PlaceholderGenerator.exe"; Check: not Is64BitInstallMode
+Source: "bin\Release\x64\PlaceholderGenerator.exe"; DestDir: "{app}"; DestName: "PlaceholderGenerator.exe"; Check: Is64BitInstallMode
+
 [Run]
 Filename: "{app}\PlaceholderGenerator.exe"; Flags: postinstall nowait
 

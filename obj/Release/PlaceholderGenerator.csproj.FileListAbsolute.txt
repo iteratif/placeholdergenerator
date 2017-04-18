@@ -10,3 +10,9 @@ C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGene
 C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Release\PlaceholderGenerator.exe
 C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Release\PlaceholderGenerator.pdb
 C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\obj\Release\PlaceholderGenerator.csprojResolveAssemblyReference.cache
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Release\x86\PlaceholderGenerator.exe.config
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Release\x86\PlaceholderGenerator.exe
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Release\x86\PlaceholderGenerator.pdb
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Release\x64\PlaceholderGenerator.exe.config
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Release\x64\PlaceholderGenerator.exe
+C:\Users\iteratif\Documents\Visual Studio 2015\Projects\iteratif\PlaceholderGenerator\bin\Release\x64\PlaceholderGenerator.pdb
